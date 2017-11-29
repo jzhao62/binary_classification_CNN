@@ -1,0 +1,13 @@
+http://www.subsubroutine.com/sub-subroutine/2016/9/30/cats-and-dogs-and-convolutional-neural-networks
+
+
+这是一个简单的 cat， dog classification demo
+
+dogs: 14, cats 12， 在这个dataset中自动split training， testset
+
+下一步需要根据attribute txt, 把大约8000张图像label成以下形式:
+
+glass.0.jpg
+glass.1.jpg
+noglass.2.jpg
+...
